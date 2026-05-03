@@ -1,5 +1,5 @@
-# 🤖 MARK XXXIX (39)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+# 🤖 J.A.R.V.I.S
+### The Ultimate Cross-Platform Personal AI Assistant 
 
 
 
@@ -41,7 +41,7 @@ It's not just an assistant — it's an extension of your digital life.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-XXXIX.git
+git clone
 cd Mark-XXXIX
 pip install -r requirements.txt
 playwright install
