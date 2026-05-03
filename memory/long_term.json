@@ -2,7 +2,7 @@
   "identity": {},
   "preferences": {
     "trading_time_action": {
-      "value": "open TradingView in browser, open Forex Factory in browser, open FundedNext app",
+      "value": "action specified",
       "updated": "2026-05-03"
     }
   },
@@ -12,7 +12,7 @@
   "notes": {},
   "habits": {
     "trading_time_action": {
-      "value": "open TradingView, Forex Factory, and Funded Next simultaneously",
+      "value": "open https://www.tradingview.com/chart/BBYQscIs/, https://www.forexfactory.com/calendar (comet), https://x.com/DeItaone (comet), https://www.youtube.com/watch?v=ksO2oRHVaAY&list=RDGMEMWO-g6DgCWEqKlDtKbJA1GwVMy2tEPmwWEiI&index=11 (comet), clusterDelta Orderflow and pick indexes then YM (computer) and FundedNext (computer) simultaneously and the websites each own tab",
       "updated": "2026-05-03"
     }
   }
