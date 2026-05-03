@@ -1,0 +1,19 @@
+{
+  "identity": {},
+  "preferences": {
+    "trading_time_action": {
+      "value": "open TradingView in browser, open Forex Factory in browser, open FundedNext app",
+      "updated": "2026-05-03"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {},
+  "habits": {
+    "trading_time_action": {
+      "value": "open TradingView, Forex Factory, and Funded Next simultaneously",
+      "updated": "2026-05-03"
+    }
+  }
+}
