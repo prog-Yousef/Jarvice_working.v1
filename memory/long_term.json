@@ -2,7 +2,7 @@
   "identity": {},
   "preferences": {
     "trading_time_action": {
-      "value": "action specified",
+      "value": "Perform trading time related tasks",
       "updated": "2026-05-03"
     }
   },
@@ -12,7 +12,7 @@
   "notes": {},
   "habits": {
     "trading_time_action": {
-      "value": "open https://www.tradingview.com/chart/BBYQscIs/, https://www.forexfactory.com/calendar (comet), https://x.com/DeItaone (comet), https://www.youtube.com/watch?v=ksO2oRHVaAY&list=RDGMEMWO-g6DgCWEqKlDtKbJA1GwVMy2tEPmwWEiI&index=11 (comet), clusterDelta Orderflow and pick indexes then YM (computer) and FundedNext (computer) simultaneously and the websites each own tab",
+      "value": "open https://www.tradingview.com/chart/BBYQscIs/ use comet browser, https://www.forexfactory.com/calendar use comet browser, https://x.com/DeItaone use comet browser, https://www.youtube.com/watch?v=ksO2oRHVaAY&list=RDGMEMWO-g6DgCWEqKlDtKbJA1GwVMy2tEPmwWEiI&index=11 use comet browser, clusterDelta Orderflow then click on YM on my computer, and FundedNext on my computer simultaneously and the websites in separate tabs",
       "updated": "2026-05-03"
     }
   }
